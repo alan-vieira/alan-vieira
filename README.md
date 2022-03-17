@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Alan Vieira</h1>
 <h3 align="center">Apaixonado por ciências e engenharia de dados</h3>
 
-- 🔭 Atualmente estou trabalhando com Web Scraping [Magic Preço Médio](https://github.com/alan-vieira/preco_magic_card)
+- 🔭 Atualmente estou trabalhando com Web Scraping [Extrator de Tweets](https://github.com/alan-vieira/extrator_tweets)
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
