@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Alan Vieira</h1>
-<h3 align="center">Apaixonado por ciências e engenharia de dados</h3>
+<h3 align="center">Apaixonado por ciência e engenharia de dados</h3>
 
 - 🔭 Atualmente estou trabalhando com análise de sentimentos de dados do Twitter [Extrator de Tweets](https://github.com/alan-vieira/extrator_tweets/blob/main/extrator_tweets.ipynb)
 
