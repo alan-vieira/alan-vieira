@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Alan Vieira</h1>
 <h3 align="center">Apaixonado por ciência e engenharia de dados</h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto de finalização da pós-graduação, com comparação de modelos de classificação de sentimentos do Twitter [Comparação de Modelos de Classificação de Sentimento](https://github.com/alan-vieira/an_set_models_hiperparametros)
+- 🔭 Atualmente estou trabalhando em projetos de banco de dados relacionais, para aprimorar o conhecimento []()
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
