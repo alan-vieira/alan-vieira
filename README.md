@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Alan Vieira</h1>
 <h3 align="center">Apaixonado por ciência e engenharia de dados</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos de banco de dados relacionais, para aprimorar o conhecimento []()
+- 🔭 Atualmente estou trabalhando em projetos de ciência e análise de dados, para aprimorar o conhecimento []()
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
