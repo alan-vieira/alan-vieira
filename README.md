@@ -1,33 +1,72 @@
-<h1 align="center">Oi 👋, Eu sou Alan Vieira</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados</h3>
+# Olá! 👋 Eu sou o Alan Vieira
 
-- 🔭 Atualmente estou trabalhando em projetos de ciência e análise de dados, para aprimorar o conhecimento []()
+### Engenheiro de Telecomunicações | Especialista em Ciência de Dados & IA | Desenvolvedor Full-Stack
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e Deep Learning**
+📍 Rio de Janeiro, Brasil (Remoto)  
+📧 alansilvavieira@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/alansilvavieira/)
 
-- 💬 Me pergunte sobre **Python, Machine Learning e Excel**
+---
 
-- 📫 Você me acha através do e-mail **alansilvavieira@gmail.com**
+## 🚀 Sobre Mim
 
-- 📄 Sou um engenheiro de telecomunicações em transição de carreira para ciência de dados [https://www.linkedin.com/in/alansilvavieira/](https://www.linkedin.com/in/alansilvavieira/)
+Sou um profissional de TI com sólida trajetória iniciada em 2008, passando por suporte corporativo de alto nível (incluindo Petrobras), gestão de infraestrutura e documentação técnica. Hoje, combino essa base robusta com uma **pós-graduação em Ciência de Dados e Inteligência Artificial**, atuando no desenvolvimento de soluções full-stack, automação de processos e modelos de Machine Learning. 
 
-<h3 align="left">Connect with me:</h3>
+Meu foco é criar sistemas seguros, bem documentados e orientados a dados, com atenção especial à qualidade do código, boas práticas de segurança (LGPD) e experiência do usuário.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/https://www.linkedin.com/in/alansilvavieira/) [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/alanvieira_ds) [![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@alan-vieira)
+---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Tech Stack & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Flack](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
+## 📂 Projetos em Destaque
 
-<!---
-- 👋 Hi, I’m @alan-vieira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 📊 [Controle Familiar](https://github.com/alan-vieira/controle-familiar)
+Sistema de gestão financeira full-stack desenvolvido com foco em segurança, usabilidade e formatação correta de moeda (BRL). 
+- **Frontend:** React + Vite (deploy na Vercel)
+- **Backend:** Flask (deploy no Render)
+- **Banco de Dados:** Supabase (PostgreSQL)
+- **Destaque:** Autenticação segura com JWT, documentação estruturada e design responsivo (PWA).
 
-alan-vieira/alan-vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🤖 [Classificação de Sentimento em Chats da Twitch (TCC)](https://github.com/alan-vieira) *(adicione o link do repo se público)*
+Projeto acadêmico de Processamento de Linguagem Natural (PLN) que compara a performance de 10 modelos tradicionais de Machine Learning com o modelo **BERTimbau** para análise de sentimento em tempo real em chats da Twitch.
+- **Tech:** Python, Scikit-Learn, Transformers (Hugging Face), Pandas.
+
+### ⚙️ [Automação e Infraestrutura](https://github.com/alan-vieira)
+Scripts e configurações para otimização de servidores Linux (Ubuntu) e automação de fluxos de trabalho, incluindo gerenciamento de contêineres Docker, pipelines de dados e processamento de arquivos de mídia.
+- **Tech:** Bash, Docker, Linux, Automação de ETL.
+
+---
+
+## 🏆 Certificações
+
+- **Microsoft:** Certified Professional (MCP) e Desktop Support Technician (desde 2008)
+- **Oracle:** Certificações em Banco de Dados e/ou Cloud *(ajuste conforme o nome exato, ex: Oracle Cloud Infrastructure)*
+- **Lean Six Sigma:** Yellow Belt
+- **Scrum:** Certificação em Metodologias Ágeis
+
+---
+
+## 📚 Formação Acadêmica
+
+- **Pós-graduação (Lato Sensu)** em Ciência de Dados e Inteligência Artificial
+- **Bacharelado** em Engenharia de Telecomunicações
+- **Tecnólogo** em Redes de Computadores
+
+---
+
+## 📫 Vamos conversar?
+
+Estou sempre aberto a discutir oportunidades, trocar ideias sobre Ciência de Dados, IA, desenvolvimento Full-Stack ou boas práticas de infraestrutura. Sinta-se à vontade para me enviar um e-mail ou me chamar no LinkedIn!
