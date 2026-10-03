@@ -40,7 +40,7 @@ Sistema de gestão financeira full-stack desenvolvido com foco em segurança, us
 - **Banco de Dados:** Supabase (PostgreSQL)
 - **Destaque:** Autenticação segura com JWT, documentação estruturada e design responsivo (PWA).
 
-### 🤖 [Classificação de Sentimento em Chats da Twitch (TCC)](https://github.com/alan-vieira) *(adicione o link do repo se público)*
+### 🤖 [Classificação de Sentimento em Chats da Twitch (TCC)](https://github.com/alan-vieira)
 Projeto acadêmico de Processamento de Linguagem Natural (PLN) que compara a performance de 10 modelos tradicionais de Machine Learning com o modelo **BERTimbau** para análise de sentimento em tempo real em chats da Twitch.
 - **Tech:** Python, Scikit-Learn, Transformers (Hugging Face), Pandas.
 
