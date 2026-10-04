@@ -53,7 +53,7 @@ Scripts e configurações para otimização de servidores Linux (Ubuntu) e autom
 ## 🏆 Certificações
 
 - **Microsoft:** Certified Professional (MCP) e Desktop Support Technician (desde 2008)
-- **Oracle:** Certificações em Banco de Dados e/ou Cloud *(ajuste conforme o nome exato, ex: Oracle Cloud Infrastructure)*
+- **Oracle:** Certificações Cloud Infrastructure 2023 Certified Foundations Associate
 - **Lean Six Sigma:** Yellow Belt
 - **Scrum:** Certificação em Metodologias Ágeis
 
